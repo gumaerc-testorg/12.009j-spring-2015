@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: ee2f9708-2be5-1949-6adb-33ead90a9da8
 ---
@@ -40,7 +43,7 @@ TOPICS
 6–9
 {{< tdclose >}}
 {{< tdopen >}}
-[Short-term Evolution Atmospheric CO2 (PDF)]({{< baseurl >}}/resources/mit12_009js15_6-9response)
+[Short-term Evolution Atmospheric CO{{< sub "2" >}} (PDF)]({{< baseurl >}}/resources/mit12_009js15_6-9response)
 {{< tdclose >}}
 
 {{< trclose >}}

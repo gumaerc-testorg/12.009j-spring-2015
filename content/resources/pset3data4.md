@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource includes special .mat file for problem set 8. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-009j-theoretical-environmental-analysis-spring-2015/c6e6e6d72da11289d4de246dac9e2265_pset3Data4.mat
+file: /media/courses/12-009j-theoretical-environmental-analysis-spring-2015/c6e6e6d72da11289d4de246dac9e2265_pset3Data4.mat
 file_type: application/octet-stream
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: pset3Data4.mat
 uid: c6e6e6d7-2da1-1289-d4de-246dac9e2265
