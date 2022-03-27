@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f087bdd-5b60-2875-117b-7ee53e1fdf60
 resourcetype: Document
 title: Theoretical Environmental Analysis, Assignments 1
 uid: 72a959be-328b-ca6e-4b96-2f1f5f2d3015

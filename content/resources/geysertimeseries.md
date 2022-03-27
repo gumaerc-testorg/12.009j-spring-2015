@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9f087bdd-5b60-2875-117b-7ee53e1fdf60
 resourcetype: Other
 title: geysertimeseries.mat
 uid: 0f87d6d8-5ba9-b617-a0f6-67ac917cbc8d

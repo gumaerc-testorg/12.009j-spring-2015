@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ee2f9708-2be5-1949-6adb-33ead90a9da8
 resourcetype: Document
 title: Theoretical Environmental Analysis, Lectures 13-17
 uid: 7696dd24-bef2-16f5-7f0b-95ebccaebd2b
