@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a MATLAB script that serves as an example for playing
+  with a sound signal.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites and corequisites, objectives, requirements, grading,
+  and an overview of course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites and Corequisites
 ------------------------------
 
-The course requires elementary physical reasoning, and therefore _8.01T Physics I_ is a prerequisite. The course also requires mathematical expertise at the level of [_18.02SC Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/). Finally, [_18.03SC Differential Equations_](/courses/18-03sc-differential-equations-fall-2011/) is a corequisite.
+The course requires elementary physical reasoning, and therefore _8.01T Physics I_ is a prerequisite. The course also requires mathematical expertise at the level of [_18.02SC Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010). Finally, [_18.03SC Differential Equations_](/courses/18-03sc-differential-equations-fall-2011) is a corequisite.
 
 Course Description
 ------------------

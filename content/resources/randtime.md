@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes special file for problem set . '
-file: /media/courses/12-009j-theoretical-environmental-analysis-spring-2015/bf8d35945bb728f22013d9b4437e5db6_randtime.m
+file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/bf8d35945bb728f22013d9b4437e5db6_randtime.m
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: randtime.m
 uid: bf8d3594-5bb7-28f2-2013-d9b4437e5db6
 ---
+This resource includes special file for problem set . 
+

@@ -1,12 +1,12 @@
 ---
 content_type: page
+description: This section provides the lecture notes used for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: ee2f9708-2be5-1949-6adb-33ead90a9da8
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
@@ -25,7 +25,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction (PDF)]({{< baseurl >}}/resources/mit12_009js15_1intro)
+{{% resource_link 91f9deea-38df-f718-c093-d68fa005dad9 "Introduction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +34,7 @@ TOPICS
 2–5
 {{< tdclose >}}
 {{< tdopen >}}
-[Plate Tectonics: The Volcanic Source (PDF - 1.2MB)]({{< baseurl >}}/resources/mit12_009js15_2-5volcano)
+{{% resource_link ca33f4b2-cfa1-62f5-506c-1d23ea822f80 "Plate Tectonics: The Volcanic Source (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ TOPICS
 6–9
 {{< tdclose >}}
 {{< tdopen >}}
-[Short-term Evolution Atmospheric CO{{< sub "2" >}} (PDF)]({{< baseurl >}}/resources/mit12_009js15_6-9response)
+{{% resource_link 491b6191-62ef-723e-e507-d0ef764c7c7a "Short-term Evolution Atmospheric CO{{< sub \"2\" >}} (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ TOPICS
 10–12
 {{< tdclose >}}
 {{< tdopen >}}
-[Scaling Laws for Rivers and Runoff (PDF)]({{< baseurl >}}/resources/mit12_009js15_10-12rivers)
+{{% resource_link a92ccc45-1a7a-542e-7012-0095796518c6 "Scaling Laws for Rivers and Runoff (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +61,7 @@ TOPICS
 13–17
 {{< tdclose >}}
 {{< tdopen >}}
-[Natural Climate Change: Glacial Cycles (PDF)]({{< baseurl >}}/resources/mit12_009js15_13-17glacial)
+{{% resource_link 7696dd24-bef2-16f5-7f0b-95ebccaebd2b "Natural Climate Change: Glacial Cycles (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +70,7 @@ TOPICS
 18–23
 {{< tdclose >}}
 {{< tdopen >}}
-[Quantitative Analysis of Periodic Phenomena (PDF)]({{< baseurl >}}/resources/mit12_009js15_18-23priodc)
+{{% resource_link 8144141b-3d8f-fa0d-2fd8-83f35a4af596 "Quantitative Analysis of Periodic Phenomena (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ TOPICS
 24–25
 {{< tdclose >}}
 {{< tdopen >}}
-[Ecological Organization (PDF)]({{< baseurl >}}/resources/mit12_009js15_24-25ecoorg)
+{{% resource_link f7b935f6-7ce8-398f-646c-10ed0994b8a2 "Ecological Organization (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ TOPICS
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Ecosystem Stability (PDF)]({{< baseurl >}}/resources/mit12_009js15_26ecosystem)
+{{% resource_link d894e606-199c-7d9a-17be-7409f0a3e096 "Ecosystem Stability (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

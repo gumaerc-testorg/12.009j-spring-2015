@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes special .mat file for problem set 1. '
-file: /media/courses/12-009j-theoretical-environmental-analysis-spring-2015/c1e3fe934cbd6e06fab35f14cf159234_geyserdat.mat
+file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/c1e3fe934cbd6e06fab35f14cf159234_geyserdat.mat
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: geyserdat.mat
 uid: c1e3fe93-4cbd-6e06-fab3-5f14cf159234
 ---
+This resource includes special .mat file for problem set 1. 
+
