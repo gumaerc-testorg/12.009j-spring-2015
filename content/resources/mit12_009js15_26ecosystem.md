@@ -6,6 +6,7 @@ file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/d894e60619
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Theoretical Environmental Analysis, Lecture 26
 uid: d894e606-199c-7d9a-17be-7409f0a3e096
 ---
 This is a file that contains information regarding theoretical environmental analysis Lecture 26.
-

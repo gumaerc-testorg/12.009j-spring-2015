@@ -5,6 +5,7 @@ file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/0f87d6d85b
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: geysertimeseries.mat
 uid: 0f87d6d8-5ba9-b617-a0f6-67ac917cbc8d
 ---
 This resource includes special .mat file for problem set 7.
-

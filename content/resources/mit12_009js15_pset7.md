@@ -6,6 +6,7 @@ file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/7426c97f63
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Theoretical Environmental Analysis, Assignments 7
 uid: 7426c97f-635b-ce74-d9df-083236607c45
 ---
 This is a file that contains information regarding theoretical environmental analysis assignments 7.
-

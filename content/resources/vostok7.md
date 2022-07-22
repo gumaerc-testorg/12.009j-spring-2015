@@ -5,6 +5,7 @@ file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/f65181618c
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Vostok7.mat
 uid: f6518161-8ccb-1896-f12f-16b97bec27cd
 ---
 This resource includes special .mat file for problem set 7.
-

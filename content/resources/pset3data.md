@@ -5,6 +5,7 @@ file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/b4da5981f9
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset3Data.mat
 uid: b4da5981-f91e-d0ca-283a-d5c83398f632
 ---
 This resource includes special .mat file for problem set 3. 
-

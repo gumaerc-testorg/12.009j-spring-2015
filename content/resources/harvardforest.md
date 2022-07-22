@@ -5,6 +5,7 @@ file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/7d6dd5269e
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: HarvardForest.mat
 uid: 7d6dd526-9ec1-e2a0-800b-bec2635bbbf3
 ---
 This resource includes special .mat file for problem set 6. 
-
