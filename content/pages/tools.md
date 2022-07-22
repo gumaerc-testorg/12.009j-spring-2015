@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides a MATLAB script that serves as an example for playing
+  with a sound signal.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: e02af7ed-2931-202c-204c-c44a69dba8ad
 ---
 
-This is a MATLAB® script that serves as an example for playing with a sound signal.
+This is a MATLAB{{< sup "®" >}} script that serves as an example for playing with a sound signal.
 
 \[y,Fs\] = audioread('Thunderstruck.m4a'); % Change it to any audio file in your directory
 

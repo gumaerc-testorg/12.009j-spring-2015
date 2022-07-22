@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, assignment due dates,
+  and exams.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 80848d15-2a5c-5b83-7fe8-d5c5a1654aea
 ---
@@ -49,7 +53,7 @@ Problem Set 1 due on Lecture 4
 6–9
 {{< tdclose >}}
 {{< tdopen >}}
-Short-term Evolution Atmospheric CO2
+Short-term Evolution Atmospheric CO{{< sub "2" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem Set 2 due on Lecture 7
