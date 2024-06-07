@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This is a supporting file for problem set 7. '
 file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/0b34254ad1a788bf1b8be750ce3b50c0_coszeta.m
+file_size: 809
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments

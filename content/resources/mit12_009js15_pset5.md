@@ -3,6 +3,7 @@ content_type: resource
 description: "This is a file that contains information regarding theoretical environmental\
   \ analysis assignments 5.\r\n"
 file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/2ee1afd4ebb1e249b89573a5a3fbc06a_MIT12_009JS15_pset5.pdf
+file_size: 190071
 file_type: application/pdf
 learning_resource_types:
 - Assignments
