@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource includes special .mat file for problem set 7. '
 file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/3beab07145e3b071f382462dc557ec17_dusty.mat
+file_size: 13055
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
