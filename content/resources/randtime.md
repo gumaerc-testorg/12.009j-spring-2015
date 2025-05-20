@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes special file for problem set . '
-file: /ol-ocw-studio-app/courses/12-009j-theoretical-environmental-analysis-spring-2015/bf8d35945bb728f22013d9b4437e5db6_randtime.m
+file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/bf8d35945bb728f22013d9b4437e5db6_randtime.m
 file_size: 969
 file_type: text/x-objcsrc
 learning_resource_types:
