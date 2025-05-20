@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding theoretical environmental
   analysis Lecture 1.
-file: /ol-ocw-studio-app/courses/12-009j-theoretical-environmental-analysis-spring-2015/91f9deea38dff718c093d68fa005dad9_MIT12_009JS15_1intro.pdf
+file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/91f9deea38dff718c093d68fa005dad9_MIT12_009JS15_1intro.pdf
 file_size: 390292
 file_type: application/pdf
 learning_resource_types:
