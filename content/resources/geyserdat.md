@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes special .mat file for problem set 1. '
-file: /ol-ocw-studio-app/courses/12-009j-theoretical-environmental-analysis-spring-2015/c1e3fe934cbd6e06fab35f14cf159234_geyserdat.mat
+file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/c1e3fe934cbd6e06fab35f14cf159234_geyserdat.mat
 file_size: 15881
 file_type: application/octet-stream
 learning_resource_types:

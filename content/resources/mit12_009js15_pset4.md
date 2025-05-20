@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding theoretical environmental
   analysis assignments 4.
-file: /ol-ocw-studio-app/courses/12-009j-theoretical-environmental-analysis-spring-2015/ea68c4610b52654c2eae938af7b591d3_MIT12_009JS15_pset4.pdf
+file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/ea68c4610b52654c2eae938af7b591d3_MIT12_009JS15_pset4.pdf
 file_size: 191610
 file_type: application/pdf
 learning_resource_types:
