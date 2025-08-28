@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding theoretical environmental
   analysis Lectures 2-5.
-file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/ca33f4b2cfa162f5506c1d23ea822f80_MIT12_009JS15_2-5volcano.pdf
+file: /ol-ocw-studio-app/courses/12-009j-theoretical-environmental-analysis-spring-2015/ca33f4b2cfa162f5506c1d23ea822f80_MIT12_009JS15_2-5volcano.pdf
 file_size: 1259922
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes special .mat file for problem set 6. '
-file: /courses/12-009j-theoretical-environmental-analysis-spring-2015/7d6dd5269ec1e2a0800bbec2635bbbf3_HarvardForest.mat
+file: /ol-ocw-studio-app/courses/12-009j-theoretical-environmental-analysis-spring-2015/7d6dd5269ec1e2a0800bbec2635bbbf3_HarvardForest.mat
 file_size: 1563240
 file_type: application/octet-stream
 learning_resource_types:
